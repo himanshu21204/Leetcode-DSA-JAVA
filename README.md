@@ -114,6 +114,7 @@
 | [0503-next-greater-element-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0661-image-smoother) |
 | [0713-subarray-product-less-than-k](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0792-binary-search) |
@@ -563,4 +564,8 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0801-is-graph-bipartite) |
+## Matrix
+|  |
+| ------- |
+| [0661-image-smoother](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
