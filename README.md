@@ -27,6 +27,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Database
 |  |
@@ -140,6 +141,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2066-add-minimum-number-of-rungs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -189,6 +191,7 @@
 | [0225-implement-stack-using-queues](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0860-design-circular-queue) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -258,6 +261,7 @@
 | ------- |
 | [0874-backspace-string-compare](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -278,6 +282,7 @@
 | [0670-maximum-swap](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0909-stone-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
