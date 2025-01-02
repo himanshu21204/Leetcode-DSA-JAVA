@@ -69,6 +69,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
@@ -302,6 +304,7 @@
 | [0792-binary-search](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -393,6 +396,7 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Tree
 |  |
 | ------- |
