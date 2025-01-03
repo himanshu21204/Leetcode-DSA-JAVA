@@ -282,6 +282,7 @@
 | [0670-maximum-swap](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0909-stone-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -580,4 +581,8 @@
 |  |
 | ------- |
 | [0661-image-smoother](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0661-image-smoother) |
+## Geometry
+|  |
+| ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
