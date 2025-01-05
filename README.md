@@ -237,6 +237,7 @@
 | [0076-minimum-window-substring](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0127-word-ladder) |
+| [0168-excel-sheet-column-title](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -284,6 +285,7 @@
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
