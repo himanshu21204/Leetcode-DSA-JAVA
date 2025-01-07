@@ -197,6 +197,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
@@ -210,6 +211,7 @@
 | [0187-repeated-dna-sequences](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -245,6 +247,7 @@
 | [0257-binary-tree-paths](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0567-permutation-in-string) |
@@ -379,6 +382,7 @@
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
