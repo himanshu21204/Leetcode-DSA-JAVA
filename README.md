@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -204,6 +205,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -609,6 +611,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0661-image-smoother](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0661-image-smoother) |
 ## Geometry
 |  |
