@@ -305,6 +305,7 @@
 | [1501-circle-and-rectangle-overlapping](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
@@ -319,6 +320,7 @@
 | [0875-longest-mountain-in-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0909-stone-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0909-stone-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Game Theory
 |  |
 | ------- |
@@ -380,6 +382,7 @@
 | [0268-missing-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Counting
 |  |
 | ------- |
@@ -641,4 +644,12 @@
 |  |
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Memoization
+|  |
+| ------- |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+## Combinatorics
+|  |
+| ------- |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 <!---LeetCode Topics End-->
