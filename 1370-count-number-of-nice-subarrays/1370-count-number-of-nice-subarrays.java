@@ -18,7 +18,6 @@ class Solution {
                 }
                 start++;
             }
-
             result += end - start + 1;
         }
 
