@@ -316,6 +316,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2850-construct-the-longest-new-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -334,6 +335,7 @@
 | [0875-longest-mountain-in-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0909-stone-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0909-stone-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2850-construct-the-longest-new-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Game Theory
 |  |
@@ -435,6 +437,7 @@
 | [2329-maximum-product-after-k-increments](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2850-construct-the-longest-new-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3195-separate-black-and-white-balls](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |
@@ -678,4 +681,8 @@
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1185-find-in-mountain-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2850-construct-the-longest-new-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2850-construct-the-longest-new-string) |
 <!---LeetCode Topics End-->
