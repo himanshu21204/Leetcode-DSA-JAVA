@@ -116,6 +116,7 @@
 | [0035-search-insert-position](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -326,6 +327,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -417,6 +419,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0455-assign-cookies) |
