@@ -63,6 +63,7 @@
 | [0455-assign-cookies](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0567-permutation-in-string) |
+| [0852-friends-of-appropriate-ages](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0874-backspace-string-compare](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
 | [0875-longest-mountain-in-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -92,6 +93,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0807-custom-sort-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0807-custom-sort-string) |
+| [0852-friends-of-appropriate-ages](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [1256-rank-transform-of-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -139,6 +141,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0792-binary-search) |
+| [0852-friends-of-appropriate-ages](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0860-design-circular-queue](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0860-design-circular-queue) |
 | [0875-longest-mountain-in-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0909-stone-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0909-stone-game) |
@@ -358,6 +361,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0792-binary-search) |
+| [0852-friends-of-appropriate-ages](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0852-friends-of-appropriate-ages) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1046-max-consecutive-ones-iii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1185-find-in-mountain-array) |
