@@ -61,6 +61,7 @@
 | [0189-rotate-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
 | [0875-longest-mountain-in-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -88,6 +89,7 @@
 | [0324-wiggle-sort-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0807-custom-sort-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0807-custom-sort-string) |
 | [1256-rank-transform-of-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -130,6 +132,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0661-image-smoother) |
@@ -229,6 +232,7 @@
 | [0299-bulls-and-cows](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0807-custom-sort-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0807-custom-sort-string) |
@@ -350,6 +354,7 @@
 | [0035-search-insert-position](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0792-binary-search) |
