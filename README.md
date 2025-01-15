@@ -114,6 +114,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0729-my-calendar-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0729-my-calendar-i) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0860-design-circular-queue) |
 | [1582-design-browser-history](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1582-design-browser-history) |
@@ -214,6 +215,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
@@ -460,6 +462,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1304-longest-happy-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -512,6 +515,7 @@
 | [0617-merge-two-binary-trees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -578,6 +582,7 @@
 | [0617-merge-two-binary-trees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -642,6 +647,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Union Find
