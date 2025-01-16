@@ -90,6 +90,7 @@
 | [0268-missing-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -242,6 +243,7 @@
 | [0299-bulls-and-cows](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -283,6 +285,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0807-custom-sort-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0807-custom-sort-string) |
@@ -434,6 +437,7 @@
 | ------- |
 | [0299-bulls-and-cows](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -472,6 +476,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1304-longest-happy-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1304-longest-happy-string) |
@@ -719,4 +724,8 @@
 |  |
 | ------- |
 | [2850-construct-the-longest-new-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2850-construct-the-longest-new-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
