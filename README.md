@@ -303,6 +303,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -365,6 +366,7 @@
 | [0875-longest-mountain-in-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0909-stone-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0909-stone-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2850-construct-the-longest-new-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2850-construct-the-longest-new-string) |
@@ -437,6 +439,7 @@
 | [0187-repeated-dna-sequences](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Counting
@@ -500,6 +503,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
@@ -737,4 +741,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bitmask
+|  |
+| ------- |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
