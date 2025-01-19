@@ -133,6 +133,7 @@
 | [0055-jump-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0139-word-break](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -244,6 +245,7 @@
 | [0076-minimum-window-substring](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -285,6 +287,7 @@
 | [0076-minimum-window-substring](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
@@ -372,6 +375,7 @@
 | [0055-jump-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -678,6 +682,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## String Matching
@@ -746,6 +751,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0139-word-break) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
 |  |
