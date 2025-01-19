@@ -353,6 +353,7 @@
 | [1501-circle-and-rectangle-overlapping](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2850-construct-the-longest-new-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -360,6 +361,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
 |  |
@@ -400,6 +402,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Sliding Window
 |  |
