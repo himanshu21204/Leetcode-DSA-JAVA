@@ -108,6 +108,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3202-high-access-employees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3202-high-access-employees) |
 ## Merge Sort
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2755-extra-characters-in-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3202-high-access-employees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3202-high-access-employees) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -280,6 +282,7 @@
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2755-extra-characters-in-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3202-high-access-employees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3202-high-access-employees) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
@@ -324,6 +327,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3202-high-access-employees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3202-high-access-employees) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3451-string-compression-iii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3451-string-compression-iii) |
 ## Simulation
