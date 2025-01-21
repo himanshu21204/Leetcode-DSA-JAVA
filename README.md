@@ -144,6 +144,7 @@
 | [0268-missing-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0419-battleships-in-a-board](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -681,6 +682,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0419-battleships-in-a-board](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -735,6 +737,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0036-valid-sudoku) |
+| [0419-battleships-in-a-board](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0661-image-smoother](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0661-image-smoother) |
 ## Geometry
 |  |
