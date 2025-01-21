@@ -192,6 +192,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2329-maximum-product-after-k-increments) |
+| [2339-k-divisible-elements-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -280,6 +281,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2339-k-divisible-elements-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -548,6 +550,7 @@
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2339-k-divisible-elements-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Tree
 |  |
@@ -700,6 +703,7 @@
 | [0139-word-break](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2339-k-divisible-elements-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2755-extra-characters-in-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## String Matching
 |  |
@@ -749,11 +753,13 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2339-k-divisible-elements-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2339-k-divisible-elements-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 ## Quickselect
 |  |
 | ------- |
