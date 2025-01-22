@@ -126,6 +126,7 @@
 | [0838-design-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0860-design-circular-queue) |
 | [1582-design-browser-history](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1582-design-browser-history) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Array
 |  |
 | ------- |
@@ -239,6 +240,7 @@
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1582-design-browser-history) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | [0860-design-circular-queue](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Hash Table
 |  |
 | ------- |
@@ -288,6 +291,7 @@
 | [2339-k-divisible-elements-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2755-extra-characters-in-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -494,6 +498,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Segment Tree
 |  |
 | ------- |
