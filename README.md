@@ -181,6 +181,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1876-map-of-highest-peak](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -617,6 +618,7 @@
 | [0998-check-completeness-of-a-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1876-map-of-highest-peak](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -739,6 +741,7 @@
 | [0036-valid-sudoku](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0419-battleships-in-a-board](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0661-image-smoother](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0661-image-smoother) |
+| [1876-map-of-highest-peak](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1876-map-of-highest-peak) |
 ## Geometry
 |  |
 | ------- |
