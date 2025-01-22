@@ -151,6 +151,7 @@
 | [0485-max-consecutive-ones](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0542-01-matrix](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0661-image-smoother) |
@@ -394,6 +395,7 @@
 | [0139-word-break](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-longest-mountain-in-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0909-stone-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0909-stone-game) |
@@ -611,6 +613,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -740,6 +743,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0419-battleships-in-a-board](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0542-01-matrix](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0661-image-smoother) |
 | [1876-map-of-highest-peak](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1876-map-of-highest-peak) |
 ## Geometry
