@@ -145,6 +145,7 @@
 | [0268-missing-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0396-rotate-function) |
 | [0419-battleships-in-a-board](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0455-assign-cookies) |
@@ -371,6 +372,7 @@
 | [0189-rotate-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0273-integer-to-english-words) |
+| [0396-rotate-function](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0670-maximum-swap](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0909-stone-game) |
@@ -400,6 +402,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0396-rotate-function](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
