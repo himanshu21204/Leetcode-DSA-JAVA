@@ -176,6 +176,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1396-count-servers-that-communicate](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -503,6 +504,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1034-subarrays-with-k-different-integers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1396-count-servers-that-communicate](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -637,6 +639,7 @@
 | [0998-check-completeness-of-a-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1396-count-servers-that-communicate](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -719,6 +722,7 @@
 | [1035-cousins-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
@@ -751,6 +755,7 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0801-is-graph-bipartite) |
+| [1396-count-servers-that-communicate](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Graph
 |  |
 | ------- |
@@ -763,6 +768,7 @@
 | [0419-battleships-in-a-board](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0661-image-smoother) |
+| [1396-count-servers-that-communicate](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1876-map-of-highest-peak) |
 ## Geometry
 |  |
