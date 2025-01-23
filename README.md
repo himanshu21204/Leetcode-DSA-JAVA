@@ -76,6 +76,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Divide and Conquer
 |  |
@@ -345,6 +346,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3202-high-access-employees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3202-high-access-employees) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3451-string-compression-iii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3451-string-compression-iii) |
 ## Simulation
 |  |
@@ -438,6 +440,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2628-minimize-the-maximum-of-two-arrays) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Sliding Window
 |  |
@@ -727,6 +730,7 @@
 | ------- |
 | [0812-rotate-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -776,12 +780,14 @@
 | [0187-repeated-dna-sequences](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2339-k-divisible-elements-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2339-k-divisible-elements-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Quickselect
 |  |
 | ------- |
