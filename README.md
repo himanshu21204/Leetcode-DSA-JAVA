@@ -130,6 +130,7 @@
 | [0838-design-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0860-design-circular-queue) |
 | [1582-design-browser-history](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1582-design-browser-history) |
+| [1722-throne-inheritance](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1722-throne-inheritance) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Array
 |  |
@@ -293,6 +294,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1722-throne-inheritance](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1722-throne-inheritance) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -625,6 +627,7 @@
 | [1035-cousins-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1722-throne-inheritance](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1722-throne-inheritance) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -737,6 +740,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1722-throne-inheritance](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1722-throne-inheritance) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
